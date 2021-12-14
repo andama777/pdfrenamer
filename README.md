@@ -11,3 +11,5 @@ PDFの処理・rename
 5.ページビュー
 を実装
 UMLとDBを使うこと
+
+『Django開発入門』
